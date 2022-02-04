@@ -14,7 +14,11 @@ This course introduces professionals, scientists and undergraduate students the 
 ## What you will learn
 * Identify real world problems where IoT can offer a valuable solution
 * Analyze required interaction between the IoT device and the physical world
-* Select sensors and actuators to accomplis a required interaction
+* Select sensors and actuators to accomplish a required interaction
+* Define device tasks and their trade-off in terms of energy, storage and cost
+* Determine best communication technologies for required distances and rates
+* Configure and manage devices using a network platform
+* Design and implement dashboard to visualize and analyze data and trigger actions 
 
 ## What you will need:
 * Access to the Internet through a computer
