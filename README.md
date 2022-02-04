@@ -12,13 +12,9 @@ This course introduces professionals, scientists and undergraduate students the 
 * Data analysis and visualization tools
 
 ## What you will learn
-* Use cases and applications of IoT technology
-* Definition and historical evolution of IoT
-* Interaction with the physical world using sensors and actuators
-* Device architecture and its main components
-* Data processing and transfer technologies
-* Data collection and storage platforms
-* Data analysis and visualization tools
+* Identify real world problems where IoT can offer a valuable solution
+* Analyze required interaction between the IoT device and the physical world
+* Select sensors and actuators to accomplis a required interaction
 
 ## What you will need:
 * Access to the Internet through a computer
