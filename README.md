@@ -1,6 +1,6 @@
 # Fundamentals of Internet of Things
 ## About this course
-This course introduces professionals, scientists and undergraduate students the main concepts behind the Internet of Things. 
+This course introduces professionals, scientists and undergraduate students the main concepts behind the Internet of Things. A bottom-up approach is mainly used to 
 
 ## Main topics
 * Use cases and applications of IoT technology
@@ -22,7 +22,7 @@ This course introduces professionals, scientists and undergraduate students the 
 
 ## What you will need:
 * Access to the Internet through a computer
-* BAsic programming skills in Python (preferable but not mandatory) 
+* Basic programming skills in Python (preferable but not mandatory) 
 
 
 ***
