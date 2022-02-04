@@ -1,20 +1,28 @@
-# Demo course template
+# Fundamentals of Internet of Things
 ## About this course
-This course...
+This course introduces professionals, scientists and undergraduate students the main concepts behind the Internet of Things. 
 
 ## Main topics
-* This
-* That
+* Use cases and applications of IoT technology
+* Definition and historical evolution of IoT
+* Interaction with the physical world using sensors and actuators
+* Device architecture and its main components
+* Data processing and transfer technologies
+* Data collection and storage platforms
+* Data analysis and visualization tools
 
 ## What you will learn
-* This
-* That
-* ...
+* Use cases and applications of IoT technology
+* Definition and historical evolution of IoT
+* Interaction with the physical world using sensors and actuators
+* Device architecture and its main components
+* Data processing and transfer technologies
+* Data collection and storage platforms
+* Data analysis and visualization tools
 
 ## What you will need:
-* (Replace with list of required skills / knowledge)
-* (Specify also if any hardware / lab is required)
-
+* Access to the Internet through a computer
+* BAsic programming skills in Python (preferable but not mandatory) 
 
 
 ***
@@ -28,3 +36,5 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+![logo_neon_erasmus](https://user-images.githubusercontent.com/49734900/152565208-e9326ee5-a2a5-4096-bd2a-10ace4c855e6.png)
+
