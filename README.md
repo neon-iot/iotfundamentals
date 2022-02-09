@@ -1,6 +1,6 @@
 # Fundamentals of Internet of Things
-## About this course
-This course introduces professionals, scientists and undergraduate students the main concepts behind the Internet of Things. A top-down approach is used to drive students through the analysis of applications and uses cases of IoT,  
+## About this teaching material
+This teaching material introduces the main concepts behind the Internet of Things (IoT) through the analysis of real world problems where IoT solutions have been proposed. A top-down approach is used to first understand the required interaction of the "thing" with the physical world in terms of data collection and/or action control. This interaction is then analyzed from inside the "thing" to discuss the main components of typical IoT nodes (interfaces, memory, microcontrollers, batteries, etc.) and design trade-offs. Different commercial solutions are reviewed and compared to understand which ones are more suitable for specific applications. Finally, network interaction is considered, which deals with data processing and transfer requirements of IoT nodes to implement a given solution. Different scenarios are analyzed to understand the role of communications technologies in terms of transfer rate, reach and  power consumption.  
 
 ## Main topics
 * Use cases and applications of IoT technology
