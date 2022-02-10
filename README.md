@@ -20,7 +20,10 @@ This teaching material introduces the main concepts behind the Internet of Thing
 * Configure and manage devices using a network platform
 * Design and implement dashboard to visualize and analyze data and trigger actions 
 
-## Requierements:
+## Methodology
+A project-based learning (PBL) strategy is mainly used to design an IoT solution to a real-world problem proposed by students. Students collaborate in small groups to first identify a real world problem where IoT can offer a valuable solution and then incrementally design it following a top-down approach. Lectures are used to introduce IoT concepts that help students to further define their project. Starting from an ideal solution based only on the required interaction with the physical world, IoT components (sensors, hardware, communications, etc) are gradually introduced and discussed to better define the proposed solution. Projects are regularly presented to the class for discussion and collaboration among groups. Final projects are delivered in a short video format and made public for the community. 
+
+## Requirements:
 * Access to the Internet through a computer
 * Basic programming skills in Python (preferable but not mandatory) 
 
