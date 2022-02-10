@@ -11,7 +11,7 @@ This teaching material introduces the main concepts behind the Internet of Thing
 * Data collection and storage platforms
 * Data analysis and visualization tools
 
-## What you will learn
+## Learning outcomes
 * Identify real world problems where IoT can offer a valuable solution
 * Analyze required interaction between the IoT device and the physical world
 * Select sensors and actuators to accomplish a required interaction
@@ -20,11 +20,11 @@ This teaching material introduces the main concepts behind the Internet of Thing
 * Configure and manage devices using a network platform
 * Design and implement dashboard to visualize and analyze data and trigger actions 
 
-## What you will need:
+## Requierements:
 * Access to the Internet through a computer
 * Basic programming skills in Python (preferable but not mandatory) 
 
-## About the authors:
+## Authors:
 * <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jfinochietto" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/jfinochietto?trk=profile-badge">Jorge M Finochietto</a></div>
 * [Horacio Mendoza](https://ar.linkedin.com/in/horacio-a-mendoza?trk=public_profile_browsemap)              
 
