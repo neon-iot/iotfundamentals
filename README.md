@@ -24,6 +24,9 @@ This teaching material introduces the main concepts behind the Internet of Thing
 * Access to the Internet through a computer
 * Basic programming skills in Python (preferable but not mandatory) 
 
+## About the authors:
+* <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="jfinochietto" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/jfinochietto?trk=profile-badge">Jorge M Finochietto</a></div>
+* [Horacio Mendoza](https://ar.linkedin.com/in/horacio-a-mendoza?trk=public_profile_browsemap)              
 
 ***
 [![CC BY 4.0][cc-by-shield]][cc-by]
@@ -37,4 +40,5 @@ This work is licensed under a
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
 ![logo_neon_erasmus](https://user-images.githubusercontent.com/49734900/152565208-e9326ee5-a2a5-4096-bd2a-10ace4c855e6.png)
+
 
