@@ -5,4 +5,5 @@ This module first analyzes IoT from different perspectives and actors in order t
 
 ## Outline
 * Lecture [slide deck](https://github.com/neon-iot/iotfundamentals/blob/main/slides/2-Overview.pdf)
-* Activity: 
+* Project (Phase 1/3): In this activity, each participant must propose a solution to a problem through the use of the Internet of Things. You should comment on the problem, the current solutions to it and how you think it can be solved through the Internet of Things. In particular, in this last point it is necessary to identify the different data sources that are needed as well as possible actions that must be carried out, the location of the sources, the frequency with which it is expected to be able to access them, the ranges of expected values, etc. Technological aspects should NOT be considered at this stage, but the problem and its solution must be defined independently of technology.
+* Panel: Each project is shared through a collaborative space (wall, board) fostering the discussion among students to improve each proposed idea. Potential tools than can be used for this purpose are [Padlet](https://padlet.com) or [Miro](https://miro.com)
