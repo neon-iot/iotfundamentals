@@ -5,3 +5,4 @@ This module first analyzes IoT from different perspectives and actors in order t
 
 ## Outline
 * Lecture [slide deck](https://github.com/neon-iot/iotfundamentals/blob/main/slides/2-Overview.pdf)
+* Activity: 
