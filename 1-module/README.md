@@ -5,5 +5,19 @@ This module introduces the Internet of Things as a set of technologies with the 
 
 ## Outline
 * Lecture [slide deck](https://github.com/neon-iot/iotfundamentals/blob/main/slides/1-Introduction.pdf)
-* Activity (add more details later): Different technological solutions to real-world problems are presented, students must decide whether the solution is based on IoT or not.
-* Video (post-teaching): Different videos with success stories about IoT.
+
+* Activity: The following IoT solutions to real-world problems are presented, each one can be assigned to a group of students:
+  - [Smart Metering](https://demo.thingsboard.io/dashboard/3a1026e0-83f6-11e7-b56d-c7f326cba909?publicId=322a2330-7c36-11e7-835d-c7f326cba909)
+  - [Smart Bus](https://demo.thingsboard.io/dashboard/3d0bf910-ee09-11e6-b619-bb0136cc33d0?publicId=963ab470-34c9-11e7-a7ce-bb0136cc33d0&source=realtimeIotDashboards)
+  - [Smart Silos](https://demo.thingsboard.io/dashboard/1f9828d0-058e-11e7-87f7-bb0136cc33d0?publicId=963ab470-34c9-11e7-a7ce-bb0136cc33d0&source=realtimeIotDashboards)
+  - [Smart Office](https://thingsboard.cloud/dashboard/bf47dcb0-8b38-11ec-a344-c767c1ab1bb8?publicId=4978baf0-8a92-11ec-98f9-ff45c37940c6)
+
+  Students must discuss and present their findings to the folllowing questions: 
+  - What data sources are used in the IoT application?
+  - How are data visualized and/or reported in the IoT dahsboard?
+  - How often are data updated (aproximately)?   
+    
+* Post-teaching: Watch the following videos that describe how IoT is used in detail to solve specific problems: Can you identify IoT nodes in each case?
+  - [Smart Parking](https://youtu.be/qkjKk-ZSzfw) 
+  - [Smart Livestock](https://youtu.be/OnXbrVp0fQM)
+  - [Smart Waste](https://youtu.be/v8HIJYyBeSg)
