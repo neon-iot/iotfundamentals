@@ -4,4 +4,4 @@
 This module ....
 
 ## Outline
-* Lecture [slide deck](https://github.com/neon-iot/iotfundamentals/blob/main/slides/5-Communications.pdf) 
+* Lecture [slide deck](https://github.com/neon-iot/iotfundamentals/blob/main/slides/5-Communication.pdf) 
