@@ -1,7 +1,7 @@
 # 5 - Data Communication in the Internet of Things
 
 ## About this module
-This module ....
+This module addresses the different communication technologies avaiulable to connect IoT nodes to the network infrastructure, mainly considering wireless technologies. The main focus is to understand the tradeoffs behind these technologies to identify best options for each scenario. Besides, data collection and exchange is analyzed by means of IoT management platforms that offer services to interact with IoT nodes and their data, providing visualization tools used to design and offer dahsboards.
 
 ## Outline
 * Lecture [slide deck](https://github.com/neon-iot/iotfundamentals/blob/main/slides/5-Communication.pdf) 
