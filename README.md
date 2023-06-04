@@ -42,6 +42,4 @@ This work is licensed under a
 [cc-by]: http://creativecommons.org/licenses/by/4.0/
 [cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
 [cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
-![logo_neon_erasmus](https://user-images.githubusercontent.com/49734900/152565208-e9326ee5-a2a5-4096-bd2a-10ace4c855e6.png)
-
-
+![logo_neon_erasmus](https://github.com/neon-iot/iotfundamentals/blob/main/images/BannerSupportErasmus.png)
